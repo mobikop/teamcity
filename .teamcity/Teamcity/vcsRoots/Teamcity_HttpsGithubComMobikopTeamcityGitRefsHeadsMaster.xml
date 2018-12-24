@@ -8,6 +8,8 @@
   <param name="ignoreKnownHosts" value="true" />
   <param name="secure:password" value="credentialsJSON:7c153b27-ea40-4a5a-a400-77ec48264f0d" />
   <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec"><![CDATA[+:refs/heads/(*)
++:refs/(merge-requests/*)/head]]></param>
   <param name="url" value="https://github.com/mobikop/teamcity.git" />
   <param name="useAlternates" value="true" />
   <param name="username" value="mobikop" />
