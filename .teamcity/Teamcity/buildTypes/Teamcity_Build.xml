@@ -29,13 +29,14 @@ echo $PATH]]></param>
           <param name="cxIsIncremental" value="true" />
           <param name="cxIsSynchronous" value="true" />
           <param name="cxOsaArchiveIncludePatterns" value="*.zip, *.tgz, *.war, *.ear" />
-          <param name="cxPassword" value="" />
+          <param name="cxPassword" value="zxx209736966e79c83d" />
           <param name="cxPresetId" value="-1" />
           <param name="cxProjectName" value="Build" />
+          <param name="cxServerUrl" value="http://localhost:8111" />
           <param name="cxTeamId" value="noTeamPath" />
           <param name="cxUseDefaultSastConfig" value="true" />
           <param name="cxUseDefaultScanControl" value="true" />
-          <param name="cxUseDefaultServer" value="true" />
+          <param name="cxUsername" value="adsf" />
           <param name="teamcity.step.mode" value="default" />
         </parameters>
       </runner>
